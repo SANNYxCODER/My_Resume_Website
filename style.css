@@ -1,0 +1,90 @@
+@font-face {
+  font-family: "MyCustomFont";
+  src: url(./Luxany\ Display\ Demo.otf);
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,body {
+  height: 100%;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+.Name{
+  text-align: center;
+  background-color: #202840;
+  color: white;
+  padding-top: 2rem;
+  padding-bottom:2rem;
+  font-family:MyCustomFont;
+}
+.Name img{
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+}
+.Name h4{
+  font-weight: 200;
+  font-style: italic;
+}
+.Container{
+  background: white;
+  text-align: center;
+  gap: 25px;
+  padding: 25px;
+}
+.About,.Skills,.Education,.Projects,.Contact{
+  
+} 
+p {
+  background-color: white;
+  padding: 14px;
+  border-radius: 5px;
+  display: block;         /* Make each <p> take up full width */
+  margin: 10px auto;      /* Add spacing and center */
+  width: fit-content;     /* Shrink to fit text width */
+}
+
+
+.Education{
+  background-color: aliceblue;
+  margin: 2rem;
+  padding: 40px;
+}
+.Skills{
+  background-color: #fef3c7;
+  margin: 2rem;
+  padding: 40px;
+}
+.About{
+  background-color: #f5f9fc;
+  margin: 2rem;
+  padding: 40px;
+  
+}
+.Projects{
+  background-color: #ecebff;
+  margin: 2rem;
+  padding: 40px;
+  font-weight: 200;
+}
+.Contact{
+  background-color: #d1fae5;
+  margin: 2rem;
+  padding: 40px;
+}
+.Footer{
+  background-color:#202840;
+  height: 7%;
+  align-content: center;
+  text-align: center;
+  color: white;
+  font-style: italic;
+  
+}
