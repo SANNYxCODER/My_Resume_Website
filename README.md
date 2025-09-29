@@ -13,3 +13,14 @@ Designed a personal resume website to practice:
 
 To improve my skills in frontend development and start building more advanced projects like portfolios, landing pages, and blogs.
 
+🛠️ Tech Stack
+HTML5
+CSS3
+✨ Features
+Custom background & colors 🎨
+Profile section with picture 🖼️
+About, Education, Skills, Projects & Contact sections 📑
+Clean & simple UI 🌿
+
+📷 Preview
+https://sannyxcoder.github.io/My_Resume_Website/
